@@ -86,8 +86,8 @@ Monitoring platform designed around real workloads with an architecture that sca
 
 ## Stats
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koard&theme=default" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=koard&theme=default" />
+  <img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=koard&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=theme_mode_default" />
+  <img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=koard&layout=compact&theme=theme_mode_default" />
 </p>
 
 ---
